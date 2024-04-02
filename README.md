@@ -3,12 +3,12 @@
 
     - [x]   IW3Cine    -- Testing, done for the most part.
     - [x]   IW4Cine    -- Sass
-    - [x]   IW5Cine    -- Testing, done for the most part.
-    - [x]   IW6Cine    -- Testing, done for the most part.
+    - [x]   IW5Cine    -- RELEASED, missing a few features.
+    - [x]   IW6Cine    -- RELEASED, missing a few features.
     - [ ]   IW7Cine    -- No plans to do this anytime soon.
     - [x]   IW8Cine    -- Sass
 
-    - [x]   T4Cine     -- DONE
+    - [x]   T4Cine     -- RELEASED
     - [x]   T5Cine     -- Testing, done for the most part.
     - [+]   T6Cine     -- In progress.
     - [ ]   T7Cine     -- Might do in the future.
