@@ -8,7 +8,7 @@
     - [ ]   IW7Cine    -- No plans to do this anytime soon.
     - [x]   IW8Cine    -- Sass
 
-    - [x]   T4Cine     -- Testing, done for the most part.
+    - [x]   T4Cine     -- DONE
     - [x]   T5Cine     -- Testing, done for the most part.
     - [+]   T6Cine     -- In progress.
     - [ ]   T7Cine     -- Might do in the future.
@@ -18,4 +18,4 @@
     - [ ]   H1Cine     -- In progress.
 ### <p style="text-align: center;">**Links**
 
-**[IW3Cine](https://github.com/datapIan/iw3cine_update) • [IW4Cine](https://github.com/sortileges/iw4cine) • [IW5Cine](https://github.com/datapIan/iw5cine_update) • [IW6Cine](https://github.com/datapIan/iw6cine) • [IW7Cine]() • [IW8Cine](https://github.com/sortileges/iw8cine) • [T4Cine](https://github.com/datapIan/t4cine_update) • [T5Cine](https://github.com/datapIan/t5cine_update) • [T6Cine]() • [T7Cine]() • [S1Cine]()**
+**[IW3Cine](https://github.com/dtpln/iw3cine) • [IW4Cine](https://github.com/sortileges/iw4cine) • [IW5Cine](https://github.com/dtpln/iw5cine) • [IW6Cine](https://github.com/dtpln/iw6cine) • [IW7Cine]() • [IW8Cine](https://github.com/sortileges/iw8cine) • [T4Cine](https://github.com/dtpln/t4cine) • [T5Cine](https://github.com/dtpln/t5cine) • [T6Cine]() • [T7Cine]() • [S1Cine]()**
