@@ -9,8 +9,8 @@
     - [x]   IW8Cine    -- Sass
 
     - [x]   T4Cine     -- RELEASED
-    - [x]   T5Cine     -- Testing, done for the most part.
-    - [+]   T6Cine     -- In progress.
+    - [ ]   T5Cine     -- Testing, done for the most part.
+    - [ ]   T6Cine     -- In progress.
     - [ ]   T7Cine     -- Might do in the future.
 
     - [+]   S1Cine     -- Testing, done for the most part. Uses same files as IW6Cine.
@@ -18,4 +18,4 @@
     - [ ]   H1Cine     -- In progress.
 # <p style="text-align: center;">**Links**
 
-### [IW3Cine](https://github.com/dtpln/iw3cine) • [IW4Cine](https://github.com/sortileges/iw4cine) • [IW5Cine](https://github.com/dtpln/iw5cine) • [IW6Cine](https://github.com/dtpln/iw6cine) • [IW7Cine]() • [IW8Cine](https://github.com/sortileges/iw8cine) • [T4Cine](https://github.com/dtpln/t4cine) • [T5Cine](https://github.com/dtpln/t5cine) • [T6Cine]() • [T7Cine]() • [S1Cine]()
+### [IW3Cine](https://github.com/dtpln/iw3cine) • [IW4Cine](https://github.com/sortileges/iw4cine) • [IW5Cine](https://github.com/dtpln/iw5cine) • [IW6Cine](https://github.com/dtpln/iw6cine) • ~~[IW7Cine]()~~ • [IW8Cine](https://github.com/sortileges/iw8cine) • [T4Cine](https://github.com/dtpln/t4cine) • ~~[T5Cine](https://github.com/dtpln/t5cine)~~ • ~~[T6Cine]()~~ • ~~[T7Cine]()~~ • ~~[S1Cine]()~~ • ~~[H1Cine]()~~
