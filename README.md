@@ -13,7 +13,7 @@
     - [ ]   T6Cine     -- In progress.
     - [ ]   T7Cine     -- Might do in the future.
 
-    - [+]   S1Cine     -- Testing, done for the most part. Uses same files as IW6Cine.
+    - [+]   S1Cine     -- Testing, done for the most part.
 
     - [ ]   H1Cine     -- Testing, done for the most part.
 # <p style="text-align: center;">**Links**
