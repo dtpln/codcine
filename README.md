@@ -9,7 +9,7 @@ editors in Modern Warfare 2(2009) for multiple other games.
 <br>
 
 <h2 align="center"> [Current Available Mods] 
-<img src="https://raw.githubusercontent.com/dtpln/codcine/assets/img/iw3cine.png"/>
+<img src="https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw3cine.png"/>
 
 </div>
 
