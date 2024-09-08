@@ -12,18 +12,13 @@ editors in Modern Warfare 2(2009) for multiple other games.
 
 [![IW3Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw3cine.png 'IW3Cine')](https://github.com/dtpln/iw3cine)
 [![T4Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/t4cine.png 'T4Cine')](https://github.com/dtpln/t4cine)
-
+[![T5Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/t5cine.png 'T5Cine')](https://github.com/dtpln/t5cine)
 </div>
 
 ## Credits
-- [X Labs](https://github.com/XLabsProject) (especially [Snake](https://github.com/momo5502))
-- [The Plutonium Project Team](https://plutonium.pw/) (especially [Rektinator](https://github.com/RektInator))
-- [Nukem9 - LinkerMod](https://github.com/Nukem9/LinkerMod)
-- [g-truc - glm](https://github.com/g-truc/glm/)
-- [ocornut - Dear ImGui](https://github.com/ocornut/imgui)
-- [Jelvan1 - cgame proxymod](https://github.com/Jelvan1/cgame_proxymod)
-- [Nvidia - rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix)
-- [people of the rtx showcase discord](https://discord.gg/j6sh7JD3v9) (for testing, feedback and ideas)
+- [Sass](https://github.com/sortileges) - Created the original IW4Cine mod.
+- [Expert](https://github.com/soexperttt) - Motivation and help.
+- [Antiga](https://github.com/404) - Motivation and help.
 
 <br>
 
