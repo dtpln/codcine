@@ -1,21 +1,31 @@
-# <p style="text-align: center;">**codCine**</p>
-### A hub for all the cine mods.
 
-    - [x]   IW3Cine    -- RELEASED, missing a feature.
-    - [x]   IW4Cine    -- Sass
-    - [x]   IW5Cine    -- RELEASED, missing a few features.
-    - [x]   IW6Cine    -- RELEASED, missing a few features.
-    - [ ]   IW7Cine    -- No plans to do this anytime soon.
-    - [x]   IW8Cine    -- Sass
+<h1 align="center">CODCine -- Sass' Cinematic Mod</h3>
 
-    - [x]   T4Cine     -- RELEASED
-    - [ ]   T5Cine     -- Testing, done for the most part.
-    - [ ]   T6Cine     -- In progress.
-    - [ ]   T7Cine     -- Might do in the future.
+<div align="center" markdown="1"> 
 
-    - [+]   S1Cine     -- Testing, done for the most part.
+This collection of mods enables the same creativity Sass provided video  
+editors in Modern Warfare 2(2009) for multiple other games.
 
-    - [ ]   H1Cine     -- Testing, done for the most part.
-# <p style="text-align: center;">**Links**
+<br>
 
-### [IW3Cine](https://github.com/dtpln/iw3cine) • [IW4Cine](https://github.com/sortileges/iw4cine) • [IW5Cine](https://github.com/dtpln/iw5cine) • [IW6Cine](https://github.com/dtpln/iw6cine) • ~~[IW7Cine]()~~ • [IW8Cine](https://github.com/sortileges/iw8cine) • [T4Cine](https://github.com/dtpln/t4cine) • ~~[T5Cine](https://github.com/dtpln/t5cine)~~ • ~~[T6Cine]()~~ • ~~[T7Cine]()~~ • ~~[S1Cine]()~~ • ~~[H1Cine]()~~
+<h2 align="center"> [Current Available Mods] 
+<img src="https://raw.githubusercontent.com/dtpln/codcine/assets/img/iw3cine.png"/>
+
+</div>
+
+## Credits
+- [X Labs](https://github.com/XLabsProject) (especially [Snake](https://github.com/momo5502))
+- [The Plutonium Project Team](https://plutonium.pw/) (especially [Rektinator](https://github.com/RektInator))
+- [Nukem9 - LinkerMod](https://github.com/Nukem9/LinkerMod)
+- [g-truc - glm](https://github.com/g-truc/glm/)
+- [ocornut - Dear ImGui](https://github.com/ocornut/imgui)
+- [Jelvan1 - cgame proxymod](https://github.com/Jelvan1/cgame_proxymod)
+- [Nvidia - rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix)
+- [people of the rtx showcase discord](https://discord.gg/j6sh7JD3v9) (for testing, feedback and ideas)
+
+<br>
+
+___
+
+## Disclaimer
+This software has been created purely for the purposes of academic research. Project maintainers are not responsible or liable for misuse of the software. Use responsibly.
