@@ -10,15 +10,15 @@ editors in Modern Warfare 2(2009) for multiple other games.
 
 <h2 align="center"> [Current Available Mods] 
 
-[![IW3Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw3cine.png 'IW3Cine')](https://github.com/dtpln/iw3cine)
+[![IW3Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw3cine_new.png 'IW3Cine')](https://github.com/dtpln/iw3cine)
 
-[![T4Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/t4cine.png 'T4Cine')](https://github.com/dtpln/t4cine)
+[![T4Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/t4cine_new.png 'T4Cine')](https://github.com/dtpln/t4cine)
 
-[![T5Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/t5cine.png 'T5Cine')](https://github.com/dtpln/t5cine)
+[![T5Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/t5cine_new.png 'T5Cine')](https://github.com/dtpln/t5cine)
 
-[![IW5Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw5cine.png 'IW5Cine')](https://github.com/dtpln/iw5cine)
+[![IW5Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw5cine_new.png 'IW5Cine')](https://github.com/dtpln/iw5cine)
 
-[![IW6Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw6cine.png 'IW6Cine')](https://github.com/dtpln/iw6cine)
+[![IW6Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw6cine_new.png 'IW6Cine')](https://github.com/dtpln/iw6cine)
 </div>
 
 ## Credits
