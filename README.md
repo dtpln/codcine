@@ -17,6 +17,8 @@ editors in Modern Warfare 2(2009) for multiple other games.
 [![T5Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/t5cine.png 'T5Cine')](https://github.com/dtpln/t5cine)
 
 [![IW5Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw5cine.png 'IW5Cine')](https://github.com/dtpln/iw5cine)
+
+[![IW6Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw6cine.png 'IW6Cine')](https://github.com/dtpln/iw6cine)
 </div>
 
 ## Credits
