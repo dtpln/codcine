@@ -3,8 +3,9 @@
 
 <div align="center" markdown="1"> 
 
-This collection of mods enables the same creativity Sass provided video  
-editors in Modern Warfare 2(2009) for multiple other games.
+This mod collection brings the same level of creative freedom that 
+Sass offered video editors for *Call of Duty®: Modern Warfare® 2 (2009)*, 
+extending it to a variety of other games.
 
 <br>
 
@@ -25,7 +26,7 @@ editors in Modern Warfare 2(2009) for multiple other games.
 - [Sass](https://github.com/sortileges) - Created the original IW4Cine mod.
 - [Expert](https://github.com/soexperttt) - Motivation and help.
 - [Antiga](https://github.com/404) - Motivation and help.
-
+- [Yoyo1love]() - Started porting the mod to H1 (MWR), enabling me to continue it.
 <br>
 
 ___
