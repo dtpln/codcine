@@ -23,6 +23,8 @@ extending it to a variety of other games.
 
 [![IW6Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw6cine_new.png 'IW6Cine')](https://github.com/dtpln/iw6cine)
 
+[![H1Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/h1cine_new.png 'H1Cine')](https://github.com/dtpln/h1cine)
+
 [![IW8Cine](https://raw.githubusercontent.com/dtpln/codcine/main/assets/img/iw8cine_new.png 'IW8Cine')](https://github.com/sortileges/iw8cine)
 </div>
 
